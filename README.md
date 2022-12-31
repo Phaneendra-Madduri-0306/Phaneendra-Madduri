@@ -1,8 +1,7 @@
 ![MasterHead](https://i.ibb.co/3fQfVbH/Beige-Modern-Sunflower-Linked-In-Banner.png)
 <h1 align="center">Hi 👋, I'm Phaneendra Madduri</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="450" src="https://im2.ezgif.com/tmp/ezgif-2-a7784fd5ca.gif">
-
+<img align="right" alt="Coding" width="450" src="https://i.ibb.co/dtCnGJW/animation-640-lcadm2y8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phaneendra-madduri-0306&label=Profile%20views&color=0e75b6&style=flat" alt="phaneendra-madduri-0306" /> </p>
 
